@@ -13,4 +13,3 @@ class Constants
     static let SCREEN_HEIGHT = UIScreen.main.bounds.height
     static let BuckListCellHeight = Constants.SCREEN_HEIGHT / 6
 }
-//c
